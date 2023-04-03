@@ -1,0 +1,27 @@
+export declare const theme: {
+    gray7: string;
+    gray8: string;
+    gray9: string;
+    primary: string;
+    borderColorBase: string;
+    placeholder: string;
+    link: string;
+    signupLink: string;
+    secondaryLight: string;
+    secondaryDark: string;
+    yellow1: string;
+    yellow2: string;
+    blue1: string;
+    blue2: string;
+    blue4: string;
+    accentMid: string;
+    base: string;
+    darkGrey: string;
+    primaryLine: string;
+    face1: string;
+    face2: string;
+    gray: string;
+    alert: string;
+    lightBlue: string;
+    bgColor: string;
+};
